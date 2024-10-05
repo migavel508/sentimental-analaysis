@@ -103,7 +103,7 @@ def main(api_key, channel_id, max_results=5, max_comments=100):
 
 if __name__ == "__main__":
     # Replace with your YouTube API key and channel ID
-    YOUTUBE_API_KEY = "AIzaSyDP1tUSen2x_WkbQz0ZIjJZ16hMC9dBFU0"
+    YOUTUBE_API_KEY = "your-api-key"
     CHANNEL_ID = "UC9YiPXXV66U5uski3vYpSoQ"
     
     main(YOUTUBE_API_KEY, CHANNEL_ID)
